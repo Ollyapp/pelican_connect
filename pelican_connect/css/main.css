@@ -1,0 +1,60 @@
+/* Pelican CSS (main) */
+
+.container {
+	width: 800px;
+	margin: 0px auto 0px auto;
+}
+
+#title {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+.bar {
+	height: 50px;
+	width: 100%;
+	background-color: green;
+}
+
+.text {
+	padding: 15px 0px 0px 200px;
+	float: left;
+	color: white;
+	vertical-align: middle;
+}
+
+#results {
+	height: 200px;
+	width: 100%;
+}
+
+.result_table {
+	width: 100%;
+	padding: 10px 0px 10px 0px;
+	text-align: center;
+}
+
+#dropdown {
+	margin: 5px 0px 0px 50px;
+	height: 40px;
+	width: 90px;
+	float: left;
+}
+
+.button {
+	margin: 5px 0px 0px 20px;
+	background-color: blue;
+	color: white;
+	text-transform: capitalize;
+	padding: 9px;
+}
+
+#form {
+	width: 170px;
+	margin: 0px auto 0px auto;
+}
+
+input {
+	margin-top: 5px;
+}
